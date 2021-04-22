@@ -6,3 +6,4 @@ git config user.name "Your Name"
 git add README.md
 git commit --message "initial"
 
+sleep 10
